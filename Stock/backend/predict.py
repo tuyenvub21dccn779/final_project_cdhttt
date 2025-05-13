@@ -10,7 +10,6 @@ from datetime import datetime, timedelta
 from tqdm import tqdm
 import tensorflow as tf
 from tensorflow.keras import layers
-import yfinance as yf
 import os
 
 from Stock.get_data_from_vnstock.get_data_from_vnstock import get_data_from_vnstock

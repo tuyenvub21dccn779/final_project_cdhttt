@@ -6,7 +6,6 @@ import random
 import pkg_resources
 import types
 import os
-from pandas_datareader import data as pdr
 from Stock.get_data_from_vnstock.get_data_from_vnstock import get_data_from_vnstock
 
 import yfinance as yf
